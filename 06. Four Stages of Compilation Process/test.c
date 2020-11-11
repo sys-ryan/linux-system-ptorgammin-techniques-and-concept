@@ -20,3 +20,6 @@ main(int argc, char **argv){
     compute_circle_area(DEFAULT_RADIUS);
     return 0;
 }
+
+
+// $ gcc -E test.c -o test1.c
